@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
 # 01/10/2020 
 #Camilo Orrego Oficial
 echo -e "\e[1;31m==(PERMISOS DE ALMACENAMIENTO)==\n"
